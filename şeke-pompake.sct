@@ -1,0 +1,5 @@
+[ScriptInfo]
+ScriptType=VBScript
+
+[VBScript]
+MsgBox "Bu bir SCT dosyasının örneğidir.", vbInformation, "SCT Örneği"
